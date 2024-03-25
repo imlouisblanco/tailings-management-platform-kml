@@ -330,7 +330,7 @@
 				<name>Raster-Ejemplo-1</name>
 				<visibility>0</visibility>
 				<Icon>
-					<href>Database-Example/02-Space-Facilities/05-TSF/00-Terrain/LC08_L1TP_001077_20160427_20200907_02_T1_refl_roi.tif</href>
+					<href>https://firebasestorage.googleapis.com/v0/b/tailings-management-platform.appspot.com/o/bhp%2FTranque%20Laguna%20Seca%2F00-Terrain%2FLC08_L1TP_001077_20160427_20200907_02_T1_refl_roi.tif?alt=media&token=bcf14934-eeaf-44ca-ba3b-758ebcc73f6c</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -344,7 +344,7 @@
 				<name>Raster-Ejemplo-2</name>
 				<visibility>0</visibility>
 				<Icon>
-					<href>Database-Example/02-Space-Facilities/05-TSF/00-Terrain/LT05_L1TP_233077_20010801_20230211_02_T1_refl_roi.tif</href>
+					<href>https://firebasestorage.googleapis.com/v0/b/tailings-management-platform.appspot.com/o/bhp%2FTranque%20Laguna%20Seca%2F00-Terrain%2FLT05_L1TP_233077_20010801_20230211_02_T1_refl_roi.tif?alt=media&token=2506ff3c-6998-47b1-8147-fed98f68ad5c</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<LatLonBox>
